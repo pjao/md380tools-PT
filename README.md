@@ -18,9 +18,9 @@ Podem fazer o download aqui. Depois de descomprimir o ficheiro zip, é criada um
 
 <b>Actualizar o firmware (MD380/390)</b>
 
-Versão com GPS, fazer o “Download GPS”
+Versão com <b>GPS</b>, fazer o “Download GPS”
 
-Versão SEM GPS, fazer o “Download SEM-GPS”
+Versão <b>SEM GPS</b>, fazer o “Download SEM-GPS”
 
 Ligar o radio a pressionar a PTT e o botão por cima, ficando led a piscar vermelho e verde. Após isso fazer “Flash”.
 
