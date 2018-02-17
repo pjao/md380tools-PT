@@ -1,4 +1,5 @@
-# md380tools-PT * MD380/390 TyteraFlashTool v1.04 edição especial para PT *
+# md380tools-PT 
+# MD380/390 TyteraFlashTool v1.04 edição especial para PT
 
 Last Updates:
 
