@@ -33,7 +33,7 @@ Para actualizar a lista de contactos csv, fazer com o radio ligado normalmente
 
  
 ```ruby
-SÓ desligue o radio DEPOIS de o programa dizer “OK” e ter SEMPRE o cuidado de escolher a versão
+SO desligue o radio DEPOIS de o programa dizer “OK” e ter SEMPRE o cuidado de escolher a versão
 “SEM GPS”/”NON-GPS”
 “GPS”/”WITH GPS”
 ```
