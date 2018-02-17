@@ -1,6 +1,6 @@
 # MD380/390 TyteraFlashTool v1.04 edição especial para PT
 
-<b>Last Updates</b:
+<b>Last Updates</b>:
 
 <b>Firmware</b>: 2018-02-14
 <br>
