@@ -5,3 +5,37 @@ Last Updates:
 <b>Firmware</b>: 2018-02-14
 <br>
 <b>UserDB</b>: 2018-02-17
+
+	
+<b>MD380/390 TyteraFlashTool v1.04 edição especial para PT</b>
+
+Depois de mais uma interpelação de um colega, porque o rádio cada vez que recebia alguma comunicação reiniciava, decidi adaptar uma ferramenta já existente para Windows e que muitos de vós já conhece.
+
+Assim peguei numa das ultimas versões do TyteraFlashTool, e efectuei as alterações necessárias para que fosse possível carregar os firmwares que normalmente disponibilizo bem como a versão da base de dados dos utilizadores (o csv) devidamente formatado e testado.
+
+Podem fazer o download aqui. Depois de descomprimir o ficheiro zip, é criada uma pasta com o nome “TyteraFlashToolv1.04-PT”, que contem o programa TyteraFlashTool.
+
+
+
+<b>Actualizar o firmware (MD380/390)</b>
+
+Versão com GPS, fazer o “Download GPS”
+
+Versão SEM GPS, fazer o “Download SEM-GPS”
+
+Ligar o radio a pressionar a PTT e o botão por cima, ficando led a piscar vermelho e verde. Após isso fazer “Flash”.
+
+Quando tiver o OK, desligar o radio e voltar a ligar normalmente.
+
+
+<b>Lista de Contactos</b>
+
+Para actualizar a lista de contactos csv, fazer com o radio ligado normalmente
+“USERDB ->” Download Update” e depois “USERDB ->” Flash”
+
+ 
+<p style="color:#FF0000";>
+Só desligue o radio DEPOIS de o programa dizer “OK” e ter SEMPRE o cuidado de escolher a versão
+“SEM GPS”/”NON-GPS”
+“GPS”/”WITH GPS”
+</p>
