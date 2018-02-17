@@ -1,4 +1,4 @@
-# md380tools-PT
+# md380tools-PT * MD380/390 TyteraFlashTool v1.04 edição especial para PT *
 
 Last Updates:
 
@@ -6,8 +6,6 @@ Last Updates:
 <br>
 <b>UserDB</b>: 2018-02-17
 
-	
-<b>MD380/390 TyteraFlashTool v1.04 edição especial para PT</b>
 
 Depois de mais uma interpelação de um colega, porque o rádio cada vez que recebia alguma comunicação reiniciava, decidi adaptar uma ferramenta já existente para Windows e que muitos de vós já conhece.
 
