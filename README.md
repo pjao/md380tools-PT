@@ -32,8 +32,7 @@ Para actualizar a lista de contactos csv, fazer com o radio ligado normalmente
 “USERDB ->” Download Update” e depois “USERDB ->” Flash”
 
  
-<p style="color:#FF0000";>
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 Só desligue o radio DEPOIS de o programa dizer “OK” e ter SEMPRE o cuidado de escolher a versão
 “SEM GPS”/”NON-GPS”
 “GPS”/”WITH GPS”
-</p>
