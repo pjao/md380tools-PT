@@ -2,7 +2,7 @@
 
 <b>Last Updates</b>:
 
-<b>Firmware</b>: 2018-02-19
+<b>Firmware</b>: 2018-02-20
 <br>
 <b>UserDB</b>: 2018-02-19
 
