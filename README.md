@@ -2,9 +2,9 @@
 
 <b>Last Updates</b>:
 
-<b>Firmware</b>: 2018-02-20
+<b>Firmware</b>: 2018-02-21
 <br>
-<b>UserDB</b>: 2018-02-19
+<b>UserDB</b>: 2018-02-21
 
 
 Depois de mais uma interpelação de um colega, porque o rádio cada vez que recebia alguma comunicação reiniciava, decidi adaptar uma ferramenta já existente para Windows e que muitos de vós já conhece.
