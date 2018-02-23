@@ -4,6 +4,8 @@
 
 <b>Firmware</b>: 2018-02-22
 <br>
+<b>Firmware legacy</b>: 2018-02-22
+<br>
 <b>UserDB</b>: 2018-02-22
 <br>
 <b>TyteraFlashToolv1.04-PT</b>: 2018-02-23
