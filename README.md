@@ -5,6 +5,9 @@
 <b>Firmware</b>: 2018-02-22
 <br>
 <b>UserDB</b>: 2018-02-22
+<br>
+<b>TyteraFlashToolv1.04-PT</b>: 2018-02-23
+
 
 
 Depois de mais uma interpelação de um colega, porque o rádio cada vez que recebia alguma comunicação reiniciava, decidi adaptar uma ferramenta já existente para Windows e que muitos de vós já conhece.
