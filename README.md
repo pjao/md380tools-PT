@@ -20,6 +20,13 @@ Assim peguei numa das ultimas versões do TyteraFlashTool, e efectuei as altera�
 
 Podem fazer o download aqui. Depois de descomprimir o ficheiro zip, é criada uma pasta com o nome “TyteraFlashToolv1.04-PT”, que contem o programa TyteraFlashTool.
 
+<b>Agora disponiveis com cinco opções!</b>
+
+    Ecrã Novo – Letra em Preto (Layout introduzido recentemente)
+    Ecrã Novo – Letra em Branco (Layout introduzido recentemente)
+    Ecrã Antigo (O antigo layout que alguns continuam a preferir)
+    As md380tools originais by TravisGoodSpeed
+    O firmware original da Tytera/Retrevis
 
 
 <b>Actualizar o firmware (MD380/390)</b>
