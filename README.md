@@ -22,7 +22,7 @@ Assim peguei numa das ultimas versões do TyteraFlashTool, e efectuei as altera�
 
 Podem fazer o download aqui. Depois de descomprimir o ficheiro zip, é criada uma pasta com o nome “TyteraFlashToolv1.04-PT”, que contem o programa TyteraFlashTool.
 
-<b>Agora disponiveis com cinco opções!</b>
+<b>Agora disponiveis com seis opções!</b>
 
     BETA - Ultima versão (Versão compilada para testes - Poderá vir a ser uma versão para distribuição)
     Ecrã Novo – Letra em Preto (Layout introduzido recentemente)
