@@ -24,7 +24,7 @@ Podem fazer o download aqui. Depois de descomprimir o ficheiro zip, é criada um
 
 <b>Agora disponiveis com cinco opções!</b>
 
-    BETA - Ultima versão (Versão compilada para testes - Poderá ser a uma versão de distribuição)
+    BETA - Ultima versão (Versão compilada para testes - Poderá vir a ser uma versão para distribuição)
     Ecrã Novo – Letra em Preto (Layout introduzido recentemente)
     Ecrã Novo – Letra em Branco (Layout introduzido recentemente)
     Ecrã Antigo (O antigo layout que alguns continuam a preferir)
