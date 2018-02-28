@@ -2,6 +2,8 @@
 
 <b>Last Updates</b>:
 
+<b>BETA - Ultima Versão</b>: 2018-02-27
+<br>
 <b>Firmware - Letra Preta</b>: 2018-02-27
 <br>
 <b>Firmware - Letra Branca</b>: 2018-02-27
@@ -10,7 +12,7 @@
 <br>
 <b>UserDB</b>: 2018-02-27
 <br>
-<b>TyteraFlashToolv1.04-PT</b>: 2018-02-25
+<b>TyteraFlashToolv1.04-PT</b>: 2018-02-28
 
 
 
@@ -22,6 +24,7 @@ Podem fazer o download aqui. Depois de descomprimir o ficheiro zip, é criada um
 
 <b>Agora disponiveis com cinco opções!</b>
 
+    BETA - Ultima versão (Versão compilada para testes - Poderá ser a uma versão de distribuição)
     Ecrã Novo – Letra em Preto (Layout introduzido recentemente)
     Ecrã Novo – Letra em Branco (Layout introduzido recentemente)
     Ecrã Antigo (O antigo layout que alguns continuam a preferir)
