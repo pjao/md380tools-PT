@@ -2,7 +2,7 @@
 
 <b>Last Updates</b>:
 
-<b>BETA - Ultima Versão</b>: 2018-04-09
+<b>BETA - Ultima Versão</b>: 2018-04-12
 <br>
 <b>Firmware - Letra Preta</b>: 2018-02-28
 <br>
@@ -10,7 +10,7 @@
 <br>
 <b>Firmware legacy</b>: 2018-02-28
 <br>
-<b>UserDB</b>: 2018-04-09
+<b>UserDB</b>: 2018-04-12
 <br>
 <b>TyteraFlashToolv1.04-PT</b>: 2018-02-28
 
