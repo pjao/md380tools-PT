@@ -2,13 +2,13 @@
 
 <b>Last Updates</b>:
 
-<b>BETA - Ultima Versão</b>: 2018-05-23
+<b>BETA - Ultima Versão</b>: 2018-06-15
 <br>
-<b>Firmware - Letra Preta</b>: 2018-05-23
+<b>Firmware - Letra Preta</b>: 2018-06-15
 <br>
-<b>Firmware - Letra Branca</b>: 2018-05-23
+<b>Firmware - Letra Branca</b>: 2018-06-15
 <br>
-<b>Firmware legacy</b>: 2018-05-23
+<b>Firmware legacy</b>: 2018-06-15
 <br>
 <b>UserDB</b>: 2018-06-15
 <br>
