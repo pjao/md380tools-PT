@@ -16,7 +16,7 @@ Call ID	Call	Name	City
 2681015	CT2IOK	Jose Carlos	Grijo
 2681016	CT1ETE	Paulo Pinto	Guimaraes
 2681017	CS7AFH	Joao Oliveira	Carrazeda de Ansiaes
-2681018	CT4TE	Antonio Fins	Chaves
+2681018	CT1FJU	Vitor Melo	Gondomar
 2681019	CT1ENU	Eugnio Pereira	Chaves
 2681020	CT1DJG	Lus Pizarro	Vila Real
 2681021	CT2IKH	Leonel Borges	Gondamar
@@ -103,7 +103,7 @@ Call ID	Call	Name	City
 2681102	CT2HRU	Vasco Pinto	Paredes
 2681103	CT2IKJ	Agostinho Sousa	Nevogilde
 2681104	CT2JWD	Amilcar Moura	Sanfins de Ferreira
-2681105	CR7AQP	Luis Silva	Felgueiras
+2681105	CS7AQP	Luis Silva	Felgueiras
 2681106	CT5JTA	Francisco Francisco	Braga
 2681107	CT5ILC	Belmiro Belmiro	Paredes
 2681108	CT2JNF	Joaquim Gomes	Leca da Palmeira
@@ -216,7 +216,7 @@ Call ID	Call	Name	City
 2682058	CT1HFW	Nuno Mendes	Tomar
 2682059	CT1PR	Manuel Cardoso	Coimbra
 2682060	CS5GVW	AR Coimbra	Coimbra
-2682061	CR7AOB	Rui Ventura	Alqueves
+2682061	CS7AOB	Rui Ventura	Alqueves
 2682062	CT1EPO	Luis Sousa	Cavernaes
 2682063	CS7AFA	Pedro Ferraz	Guia PBL
 2682064	CT1DVV	Antonio Santos	Penacova
@@ -247,7 +247,7 @@ Call ID	Call	Name	City
 2682089	CR7AOL	Joao Costa	Covilha
 2682090	CS7AKG	Diogo Saraiva	Boidobra
 2682091	CT2HJI	Carlos Pereira	Quiaios
-2682092	CT2GXZ	Daniel Leitao	Viseu
+2682092	CR7AUN	Ricardo Ricardo	Viseu
 2682093	CT2HYA	Joao Silveira	Nazare
 2682094	CT2IGQ	Pedro Varela	Vinha da Rainha
 2682095	CT1EWA	Paulo Santos	Marinha Grande
@@ -359,7 +359,7 @@ Call ID	Call	Name	City
 2682201	CT1EPJ	Carlos Nobre	Nadadouro
 2682202	CT1DHR	Antonio Rodrigues	Cebolais de Cima
 2682203	CT1FHF	Armando Dias	Cruz De Areia
-2682204	CT1DYK	Joao Segurado	Silveira
+2682204	CT2JWF	Joao Simoes	Agueda
 2682205	CT7ASX	George George	Mail Missing info
 2682206	CT2JAH	Jose Marques	Coja Arganil
 2682207	CT1EKA	Carlos Morais	Algeraz
@@ -432,7 +432,7 @@ Call ID	Call	Name	City
 2683066	CT1ETG	Fernando Castanheira	Alcabideche
 2683067	CT1FHW	Jose Alves	Feij
 2683068	CT1AIC	Rui Costa	Carcavelos
-2683069	CT2EEW	Eduardo Arraia	Estoril
+2683069	CT7ASY	Eduardo Arraia	Estoril
 2683070	CT1FNG	Victor Barros	Lisboa
 2683071	CT2KEV	Luis Franco	Torres Vedras
 2683072	CT2JUS	Antnio Manuel	Montijo
@@ -451,7 +451,7 @@ Call ID	Call	Name	City
 2683085	CT2GAI	Fernando Seco	Baixa Da Banheira
 2683086	CT7ABP	Pedro Ribeiro	Alcochete
 2683087	CT4NE	Jose Figueiredo	Torres Vedras
-2683088	CS7AJF	Jose Rodrigues	Alcabideche
+2683088	CT2HAO	Miguel Matias	Rinchoa
 2683089	CT1ETV	Ramiro Marques	Lisboa
 2683090	CS7AFY	Paulo Xarez	Lisboa
 2683091	CT1CFU	Manuel Vargas	Charneca da Caparica
@@ -561,7 +561,7 @@ Call ID	Call	Name	City
 2683195	CT1CBM	Manuel Martins	Sao Domingos de Rana
 2683197	CT7AGI	Jorge Mota	Torres Vedras
 2683198	CR7AOA	Rui Antunes	Loures
-2683199	CR7AQR	Andre Franco	Mafra
+2683199	CS7AQR	Andre Franco	Mafra
 2683200	CT1AKJ	Joaquim Rodrigues	Lisboa
 2683201	CT2HPS	Joao Goncalves	Corroios
 2683202	CT2HQV	Pedro Ramos	Amora
@@ -571,14 +571,14 @@ Call ID	Call	Name	City
 2683206	CT1BM	Joaquim Cordeiro	Santo Antonio dos Cavaleiros
 2683207	CT1DYE	Carlos Picoto	Oeiras
 2683208	CT5KJX	Sergio Pereira	Roncao
-2683209	CR7AQW	Joao Silva	Odivelas
+2683209	CS7AQW	Joao Silva	Odivelas
 2683210	CS7AGH	Paulo Martins	Amora
 2683211	CT2KDX	Amarino Freitas	Vila Franca de Xira
 2683212	CT7AJF	Jose Rodrigues	Manique De Baixo
 2683213	CR7AMO	Nelson Santos	Lisboa
 2683214	CT5HPY	Jose Silva	Mafra
 2683215	CT5HQN	Jose Jose	Lisboa
-2683216	CR7AQB	Pedro Mestre	Amadora
+2683216	CS7AQB	Pedro Mestre	Amadora
 2683217	CT1EFI	Jose Couto	Amadora
 2683218	CS7ALC	Paulo Machado	Lisboa
 2683219	CT2KJV	Jose Luis	Lisboa
@@ -643,7 +643,7 @@ Call ID	Call	Name	City
 2683278	CT1ETM	Pedro Graca	Lisboa
 2683279	CT1AJU	Carlos Branco	Lisboa
 2683280	CT1FTC	Jose Tavares	Buraca
-2683281	CT1DBS	Pedro Carvalho	Lisboa
+2683281	CT7ABU	Joao Moreira	Pontinha
 2683282	CT2IPL	Rui Pinho	Sintra
 2683283	CR7ATL	Gustavo Encarnacao	Carcavelos
 2683284	CT7ABE	Joao Fragoso	Lisboa
@@ -699,7 +699,7 @@ Call ID	Call	Name	City
 2683334	CT1EVZ	Jose Alves	Porto Salvo
 2683335	CT1EBQ	Ricardo Oitaven	Cascais
 2683336	CT1DYL	Sergio Borges	Cacem
-2683337	CR7AGV	Vasco Candeias	Braga
+2683337	CR7AVG	Vasco Candeias	Braga
 2683338	CT1FIN	Joao Rodrigues	Calcada Mestres
 2683339	CT1ESM	Nuno Sousa	Albarraque
 2683340	CR7AVI	Jose Fernandes	Lisboa
@@ -766,6 +766,7 @@ Call ID	Call	Name	City
 2684056	CS7AIA	Nuno Janarra	Mail Missing info
 2684057	CT1FEP	Francisco Sardinha	Campo Maior
 2684058	CR7ANF	Pedro Beguilhas	Cabeco de Vide
+2684059	CT2HFD	Jose Costa	Alcanena
 2685001	CT1EXR	Jorge Lopes	Lagos
 2685002	CT1FGR	Fernando Machado	Lagos
 2685003	CT2IHP	Rui Bernardo	Faro
@@ -794,11 +795,11 @@ Call ID	Call	Name	City
 2685026	CT1DSH	Julio Silvestre	Montenegro
 2685027	CT4QB	Julio Rosario	Albufeira
 2685028	CT2JRC	Paulo Gago	Sao Bras de Alportel
-2685029	CQ7H	RCL Loule	Loule
+2685029	CS7AOP	Friedrich Friedrich	Silves
 2685030	CT2ECS	Miguel Gago	Portimao
 2685031	CT2KBS	Bruno Arsenio	Quarteira
 2685032	CT2KBT	Dario Rodrigues	Quarteira
-2685033	CT2GQR	Sergio Silva	Albufeira
+2685033	CT1CAG	Artur Martins	Faro
 2685034	CT1EDK	Angelo Cruz	Faro
 2685035	CR7AUJ	Sandro Cruz	Loule
 2685036	CT1FOE	Jose Silva	Portimao
@@ -855,7 +856,7 @@ Call ID	Call	Name	City
 2686041	CU2IF	Guilherme Frias	Ponta Delgada
 2686042	CU7AA	Altino Goulart	Horta
 2686043	CU7AAR	Fernando Batista	Horta
-2686044	CR8ABQ	Jose Leal	Horta
+2686044	CS8ABQ	Jose Leal	Horta
 2686045	CU7AZ	Antonio Cabral	Horta
 2686046	CU0AFT	Luis Ferreira	
 2686047	CU2ZG	Pedro Sousa	Lagoa
