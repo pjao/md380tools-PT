@@ -112,7 +112,7 @@ Call ID	Call	Name	City
 2681111	CT1EYN	Jose Costa	Guimaraes
 2681112	CT2IOS	Carlos Moreira	Matosinhos
 2681113	CT1EBA	Jose Rodrigues	Vila Nova de Gaia
-2681114	CS7ANU	Antonio Teixeira	Gondomar
+2681114	CT1AYI	Gaspar Silva	Vila Nova De Gaia
 2681115	CT2JNG	Jorge Santo	Porto
 2681116	CT2JNT	Jose Manuel	Porto
 2681117	CT2ICD	Rui Silva	Maia
@@ -160,6 +160,7 @@ Call ID	Call	Name	City
 2681159	CR7ASM	Rui Severino	Vila nova de Gaia
 2681160	CT7ANU	Jose Teixeira	Gondomar
 2681161	CT2GXK	Jose Cunha	Fafe
+2681162	CT2ILD	Fernando Monteiro	Amarante
 2682001	CT7ACF	Nuno Lopes	Nesprido
 2682002	CT1BAT	Jose Machado	Coimbra
 2682003	CT2JWV	Carlos Marques	Estarreja
@@ -371,6 +372,7 @@ Call ID	Call	Name	City
 2682209	CT5JDO	Luis Oliveira	Not available
 2682210	CT5HHQ	Claudia Santos	Not available
 2682211	CT2HWB	Mario Ribeiro	Cercal Soure
+2682212	CT5KBW	Antonio Romao	Castelo Branco
 2683001	CT1HDC	Paulo Pereira	Lisboa
 2683002	CT4GV	Luis Costa	Algueirao-Mem Martins
 2683003	CS7AFO	Hugo Hugo	Amadora
@@ -717,6 +719,7 @@ Call ID	Call	Name	City
 2683345	CT1EWC	Joao Andrade	Amadora
 2683346	CR7AVZ	Pedro David	Lisboa
 2683347	CT7AFU	Jorge Nuno	Lisboa
+2683348	CT2HCQ	Tiago Santos	Palmela
 2684001	CT2BXN	Jose Almeida	Beja
 2684002	CT2BXN	Jose Almeida	Beja
 2684003	CT1DUM	Carlos Carlos	Elvas
