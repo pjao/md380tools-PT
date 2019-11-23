@@ -163,6 +163,7 @@ Call ID	Call	Name	City
 2681162	CT2ILD	Fernando Fernando	Amarante
 2681163	CT2GHC	Luis Luis	Chaves
 2681164	CT1BXX	Pereira Pereira	Mozelos
+2681165	CT1EUK	Freitas Freitas	Guimarues
 2682001	CT7ACF	Nuno Nuno	Nesprido
 2682002	CT1BAT	Jose Jose	Coimbra
 2682003	CT2JWV	Carlos Carlos	Estarreja
@@ -379,6 +380,7 @@ Call ID	Call	Name	City
 2682214	CT2FQA	Waldemar Waldemar	Cave
 2682215	CT1ASP	Henrique Henrique	Santa Clara
 2682216	CT2GNS	Sílvino Sílvino	Febres
+2682217	CR7AVY	Carlos Carlos	Pombal
 2683001	CT1HDC	Paulo Paulo	Lisboa
 2683002	CT4GV	Luis Luis	Algueirao-Mem Martins
 2683003	CS7AFO	Hugo Hugo	Amadora
@@ -728,6 +730,8 @@ Call ID	Call	Name	City
 2683347	CT7AFU	Jorge Jorge	Lisboa
 2683348	CT2HCQ	Tiago Tiago	Palmela
 2683349	CT4EU	Joaquim Joaquim	Olival Basto
+2683350	CS7AGF	Vitor Vitor	Seixal
+2683351	CT1CAN	Brito Brito	Setbal
 2683352	CT1ISH	Henri Henri	Santa Domingos Rana
 2683354	CR7AWF	Hugo Hugo	Lisboa
 2684001	CT2BXN	Jose Jose	Beja
@@ -775,7 +779,7 @@ Call ID	Call	Name	City
 2684043	CT1CWF	Flavio Flavio	Entroncamento
 2684044	CT2IPI	Nelson Nelson	Vendas Novas
 2684045	CT1COU	Pedro Pedro	Entroncamento
-2684046	CS7AGU	Luis Luis	Alcanena
+2684046	CS7AGU	Luis Luis	Gouxaria
 2684047	CT2JYV	Luis Luis	Entroncamento
 2684048	CT4PX	Jose Jose	Estremoz
 2684049	CT2HFE	Tiago Tiago	Portalegre
@@ -785,7 +789,7 @@ Call ID	Call	Name	City
 2684053	CT7AUQ	Armando Armando	Bencatel
 2684054	CS5ISW	Paulo Paulo	Brejao
 2684055	CT1BQN	Manuel Manuel	Entroncamento
-2684056	CS7AIA	Nuno Nuno	City
+2684056	CS7AIA	Nuno Nuno	Elvas
 2684057	CT1FEP	Francisco Francisco	Campo Maior
 2684058	CR7ANF	Pedro Pedro	Cabeco de Vide
 2684059	CT2HFD	Jose Jose	Alcanena
