@@ -164,6 +164,9 @@ Call ID	Call	Name	City
 2681163	CT2GHC	Luis Luis	Chaves
 2681164	CT1BXX	Pereira Pereira	Mozelos
 2681165	CT1EUK	Freitas Freitas	Guimarues
+2681166	CS7ARV	Luis Luis	Vila Nova De Gaia
+2681167	CR7AWG	Nuno Nuno	Valongo
+2681168	CT7ARQ	Pedro Pedro	Esposende
 2682001	CT7ACF	Nuno Nuno	Nesprido
 2682002	CT1BAT	Jose Jose	Coimbra
 2682003	CT2JWV	Carlos Carlos	Estarreja
@@ -379,8 +382,12 @@ Call ID	Call	Name	City
 2682213	CT1EOK	Paulo Paulo	Peniche
 2682214	CT2FQA	Waldemar Waldemar	Cave
 2682215	CT1ASP	Henrique Henrique	Santa Clara
-2682216	CT2GNS	Sílvino Sílvino	Febres
+2682216	CT2GNS	Silvino Silvino	Febres
 2682217	CR7AVY	Carlos Carlos	Pombal
+2682218	CT2ILN	Telmo Telmo	Caldas Da Rainha
+2682219	CT1FOP	Albino Albino	Coja/Arganil
+2682220	CT2JBT	Fernando Fernando	Agueda
+2682221	CT2IBR	Gabriel Gabriel	Coimbra
 2683001	CT1HDC	Paulo Paulo	Lisboa
 2683002	CT4GV	Luis Luis	Algueirao-Mem Martins
 2683003	CS7AFO	Hugo Hugo	Amadora
@@ -409,11 +416,11 @@ Call ID	Call	Name	City
 2683026	CT1EGT	Jose Jose	Cascais
 2683027	CT2GOW	Joao Joao	Alcabideche
 2683028	CS5ARLC	Assoc Assoc	Cascais
-2683029	CT1BVP	Jose Jose	Cascais
+2683029	CT1BVP	Lourenco Lourenco	Odivelas
 2683030	CT1BPI	Antonio Antonio	Parede
 2683031	CT2ICQ	Andre Andre	Cascais
 2683032	CT1CEM	Carlos Carlos	Pinhal De Frades
-2683033	CT1FBZ	Manuel Manuel	Cruz Quebrada
+2683033	CT1FBZ	Manuel Manuel	Lisboa
 2683034	CS7AFY	Paulo Paulo	Lisboa
 2683035	CT1EBM	Miguel Miguel	Oeiras
 2683036	CT1JQJ	Nuno Nuno	Mem Martins
@@ -735,6 +742,15 @@ Call ID	Call	Name	City
 2683352	CT1ISH	Henri Henri	Santa Domingos Rana
 2683353	CT2GZJ	Pedro Pedro	Lisboa
 2683354	CR7AWF	Hugo Hugo	Lisboa
+2683355	CT2HKC	Jose Jose	Povoa De Santa Iria
+2683356	CT1EYR	Sousa Sousa	Azeitao
+2683357	CT2FSD	Hugo Hugo	Montijo
+2683358	CT2JMJ	Carlos Carlos	Vila Franca de Xira
+2683359	CT1EUX	Pedro Pedro	Samora Correia
+2683360	CT7AWN	Sandro Sandro	Lisboa Areeiro
+2683361	CT1FBU	Tavares Tavares	Azeitao
+2683362	CT7AVH	Capeleiro Capeleiro	Algueiruo
+2683363	CT1FCF	Antonio Antonio	Oeiras
 2684001	CT2BXN	Jose Jose	Beja
 2684002	CT2BXN	Jose Jose	Beja
 2684003	CT1DUM	Carlos Carlos	Elvas
@@ -795,6 +811,8 @@ Call ID	Call	Name	City
 2684058	CR7ANF	Pedro Pedro	Cabeco de Vide
 2684059	CT2HFD	Jose Jose	Alcanena
 2684060	CT2JFJ	Antonio Antonio	Chamusca
+2684061	CT2JAW	Sergio Sergio	Portalegre
+2684062	CT1EYQ	Joao Joao	Vila Nova de Santo Andre
 2685001	CT1EXR	Jorge Jorge	Lagos
 2685002	CT1FGR	Fernando Fernando	Lagos
 2685003	CT2IHP	Rui Rui	Faro
@@ -843,6 +861,7 @@ Call ID	Call	Name	City
 2685046	CT1ASU	Martins Martins	Olhao
 2685047	CR7AVR	Joao Joao	Please mail the missing info
 2685048	CT1EHO	Paulo Paulo	Odivelas
+2685049	CR7AWJ	Emanuel Emanuel	Albufeira
 2686001	CU2GI	Paulo Paulo	Ponta Delgada
 2686002	CU1UZ	Jose Jose	Santa Barbara
 2686003	CU3AT	Francisco Francisco	Angra do Heroismo
@@ -903,6 +922,7 @@ Call ID	Call	Name	City
 2686058	CU0AKA	Angelica Angelica	Not released
 2686059	CU3ABS	Carlos Carlos	Praia da Vitoria
 2686060	CU7AAC	Franciscorosa Franciscorosa	Horta
+2686061	CU7ABF	Vitor Vitor	Horta
 2687001	CT3PE	Jorge Jorge	Canico
 2687002	CT3FG	Tomas Tomas	Funchal
 2687003	CT3KP	Jose Jose	Funchal
